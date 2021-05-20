@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564923252516",
+    "project_id": "messa-49e8a",
+    "storage_bucket": "messa-49e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564923252516:android:1567c4b5033ac5489bfdb1",
+        "android_client_info": {
+          "package_name": "com.arif.my_project_onwigets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564923252516-kqhd3vp69k56bbcq3kn8r76aie69esd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arif.my_project_onwigets",
+            "certificate_hash": "39f99b07391d48965d875cf012fa35153cd888aa"
+          }
+        },
+        {
+          "client_id": "564923252516-ucnppq5q6564rvc0dbbv919i10nh8r5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsA-1-KUh4QQVdYSasu-1rbBQ2KXF9t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564923252516-ucnppq5q6564rvc0dbbv919i10nh8r5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
